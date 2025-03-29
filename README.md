@@ -1,35 +1,24 @@
-# vue-intuitive-care-test
+# VueJS Intuitive Care
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto consiste em uma interface front-end desenvolvida em VueJS que se comunica com uma API construída em Python. A API consome e processa dados de um arquivo CSV, permitindo que o front-end exiba as informações processadas.
 
-## Recommended IDE Setup
+## Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Front-end:** VueJS
+- **Back-end/API:** Python
+- **Dados:** Arquivo CSV
+- **Gerenciamento de Dependências:** npm para o front-end e pip para a API em Python
 
-## Customize configuration
+# 1. Clone o repositório
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+# 2. Instalação e Execução:
 
-## Project Setup
+## npm install e npm run dev, respectivamente
 
-```sh
-npm install
-```
+## Demonstração:
+![{9BFBF408-609D-4DD4-B5FC-B4EC02EF8699}](https://github.com/user-attachments/assets/0928cab1-2634-4ad0-8818-c3718d7263a1)
 
-### Compile and Hot-Reload for Development
+# Rode o backend localmente através do respositório:
+[API em Python](https://github.com/IkaroChagas/python-intuitive-care-api)
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
